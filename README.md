@@ -75,13 +75,14 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/studynotion.git
+   git clone https://github.com/itsharsh18/studynotion.git
    cd studynotion
    ```
 
 2. **Install dependencies for frontend**
-   ```bash
-   npm install
+   ```
+   npm install at src folder 
+   *Npm run dev
    ```
 
 3. **Install dependencies for backend**
@@ -219,4 +220,4 @@ For questions or support, please email: itsharshjha18@gmail.com
 
 ---
 
-Developed with ❤️ by [Harsh Jha]
+Developed with ❤️ by Harsh Jha
