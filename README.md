@@ -1,7 +1,7 @@
 # Saarthi - EdTech Platform
 
 
-StudyNotion is a comprehensive EdTech platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a seamless learning experience for students and an intuitive course creation and management system for instructors.
+Saarthi is a comprehensive EdTech platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a seamless learning experience for students and an intuitive course creation and management system for instructors.
 
 ## 🚀 Features
 
